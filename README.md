@@ -1,3 +1,19 @@
+# How to run the website
+
+Download the zip file
+
+Extract wherever you want to extract
+
+Open the folder into visual studio code or any IDE
+
+Then open the terminal or ctrl+j
+
+Cd to the folder cart
+
+Then do npm install
+
+To run the website type command npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
